@@ -20,3 +20,12 @@
  
 ## :pushpin: Uso:
   Para utilizar la aplicación, simplemente sigue las instrucciones proporcionadas en la interfaz de       usuario. Ingresa la moneda de origen, la moneda objetivo y el valor que deseas convertir. La            aplicación mostrará el resultado de la conversión junto con la tasa de cambio utilizada.
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Authors
+
+- [@josueS-m](https://github.com/josueS-m)
+
