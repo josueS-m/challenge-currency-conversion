@@ -1,7 +1,7 @@
 <h1 align="center"> Conversor de monedas </h1> 
 
 ![Badge de Estado del Proyecto](https://img.shields.io/badge/State-FINISHED-green) 
-![Fecha de Lanzamiento](https://img.shields.io/badge/release%20date-may%202024-mint%20green)
+![Fecha de Lanzamiento](https://img.shields.io/badge/release%20date-may%202024-cyan)
 ![Autor](https://img.shields.io/badge/Author-josueS--m-red)
 
 
