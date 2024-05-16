@@ -2,7 +2,7 @@
 
 ![Badge de Estado del Proyecto](https://img.shields.io/badge/State-FINISHED-green) 
 ![Fecha de Lanzamiento](https://img.shields.io/badge/release%20date-may%202024-mint%20green)
-![Autor](https://img.shields.io/badge/Author-josueS--m-salmon)
+![Autor](https://img.shields.io/badge/Author-josueS--m-violet)
 
 
 ## :pencil: Descripción del Proyecto
