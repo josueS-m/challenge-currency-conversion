@@ -1,7 +1,8 @@
 <h1 align="center"> Conversor de monedas </h1> 
 
-![Badge de Estado del Proyecto](https://img.shields.io/badge/Estado-TERMINADO-green) 
+![Badge de Estado del Proyecto](https://img.shields.io/badge/State-FINISHED-green) 
 ![Fecha de Lanzamiento](https://img.shields.io/badge/release%20date-may%202024-mint%20green)
+![Autor](https://img.shields.io/badge/Author-josueS--m-salmon)
 
 
 ## :pencil: Descripción del Proyecto
@@ -51,7 +52,3 @@ Para utilizar la aplicación, simplemente sigue las instrucciones proporcionadas
 
 - ### **Historial de conversiones**
   ![Historial de conversiones](https://github.com/josueS-m/challenge-currency-conversion/assets/124082151/5496732e-375e-44a4-bb11-23aa3a564f1c)
-
-## :bust_in_silhouette: Autor
-
-[@josueS-m](https://github.com/josueS-m)
