@@ -34,7 +34,7 @@ La aplicación utiliza la API de ExchangeRate-API para obtener las tasas de camb
 
 Para utilizar la aplicación, simplemente sigue las instrucciones proporcionadas en la interfaz de usuario. Ingresa la moneda de origen, la moneda objetivo y el valor que deseas convertir. La aplicación mostrará el resultado de la conversión junto con la tasa de cambio utilizada.
 
-´´´Instrucciones de Instalación y Ejecución´´´ 
+***Instrucciones de Instalación y Ejecución***
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el proyecto en tu entorno de desarrollo preferido (Eclipse o IntelliJ IDEA).
